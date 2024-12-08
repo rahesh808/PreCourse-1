@@ -1,5 +1,6 @@
 import java.io.*; 
-  
+ //Time Complexity  - > O(N)
+ //Space Complexity  - > O(N)
 // Java program to implement 
 // a Singly Linked List 
 public class Exercise_3 { 
